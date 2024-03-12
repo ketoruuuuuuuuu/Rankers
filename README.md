@@ -23,3 +23,6 @@
 
 ## Обучение
 Ноутбуки с обучением находятся в [expirements](/expirements)
+- [trees.ipynb](/expirements/trees.ipynb) - обучение дерева
+- [rankers.ipynb](/expirements/rankers.ipynb) - обучение моделей ранжирования
+- [test.ipynb](/expirements/test.ipynb) - обучение на полном трейновом датасете, без деление на валидацию и проверка на тесте
